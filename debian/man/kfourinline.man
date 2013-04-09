@@ -3,7 +3,7 @@
 kfourinline \- Connect Four clone for KDE
 .SH SYNOPSIS
 .B kfourinline
-.I [Qt-options] [KDE-options]
+.I [Qt-options] [KDE-options] [options]
 .SH DESCRIPTION
 Four wins is a game for two players.  Each player is represented by a
 color (yellow and red).  The goal of the game is to get four connected
