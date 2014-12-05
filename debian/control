@@ -24,7 +24,7 @@ Vcs-Git: git://anonscm.debian.org/pkg-kde/kde-applications/kfourinline.git
 Package: kfourinline
 Architecture: any
 Depends: ${misc:Depends}, ${shlibs:Depends}
-Recommends: khelpcenter4
+Recommends: khelpcenter
 Description: Connect Four game
  KFourInLine is a game where two players take turns dropping pieces into a grid,
  the winner being the first to place four pieces in a line.
