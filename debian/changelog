@@ -1,8 +1,9 @@
-kfourinline (4:14.12.3-0ubuntu2) UNRELEASED; urgency=medium
+kfourinline (4:15.04.0-0ubuntu1) UNRELEASED; urgency=medium
 
   * manual merge kubuntu_stable.
+  * New upstream release
 
- -- Scarlett Clark <sgclark@kubuntu.org>  Fri, 13 Mar 2015 19:39:06 -0700
+ -- Scarlett Clark <sgclark@kubuntu.org>  Wed, 15 Apr 2015 11:52:31 -0700
 
 kfourinline (4:14.12.3-0ubuntu1) vivid; urgency=medium
 
