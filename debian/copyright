@@ -5,58 +5,40 @@ Upstream-Contact: Albert Astals Cid <aacid@kde.org>
 Source: http://www.kde.org/download/
 
 Files: *
-Copyright: 1995-2007, Martin Heni <martin@heni-online.de>
-           1995-2007, Benjamin Meyer
-License: GPL-2+
+Copyright: 1991, Free Software Foundation, Inc
+           2007, John Tapsel <tapsell@kde.org>
+           2014, Laurent Montel <montel@kde.org>
+           1995-2007, Martin Heni <kde@heni-online.de>
+           1999, Pascal Krahmer
+License: LGPL-2+
+
+Files: src/kchatdialog.cpp
+       src/kchatdialog.h
+       src/kgameconnectdialog.cpp
+       src/kgameconnectdialog.h
+       src/kgamedebugdialog.cpp
+       src/kgamedebugdialog.h
+       src/kgamedialog.cpp
+       src/kgamedialog.h
+       src/kgamedialogconfig.cpp
+       src/kgamedialogconfig.h
+       src/kgameprocess.cpp
+       src/kgameprocess.h
+       src/kgamepropertyarray.h
+Copyright: 2001, Andreas Beckermann <b_mann@gmx.de>
+           2001, Martin Heni <kde@heni-online.de>
+License: LGPL-2
+
+Files: src/kfontutils.cpp
+       src/kfontutils.h
+Copyright: 2005-2009, Albert Astals Cid <aacid@kde.org>
+License: LGPL-2.1+3+KDEeV
 
 Files: doc/*
-Copyright: 2007, Martin Heni <martin@heni-online.de>
+Copyright: 1995-2007, Martin Heni  <martin@heni-online.de>
+           2007, Eugene Trounev <eugene.trounev@gmail.com>
            2007, Benjamin Meyer
 License: GFDL-1.2+
-
-Files: src/aiboard.cpp
-       src/aiboard.h
-       src/buttonsprite.cpp
-       src/buttonsprite.h
-       src/chatdlg.cpp
-       src/chatdlg.h
-       src/displaygame.cpp
-       src/displaygame.h
-       src/displayintro.cpp
-       src/displayintro.h
-       src/introsprite.cpp
-       src/introsprite.h
-       src/kwin4.cpp
-       src/kwin4doc.cpp
-       src/kwin4doc.h
-       src/kwin4global.h
-       src/kwin4.h
-       src/kwin4player.cpp
-       src/kwin4player.h
-       src/kwin4proc.cpp
-       src/kwin4proc.h
-       src/kwin4view.cpp
-       src/kwin4view.h
-       src/main.cpp
-       src/piecesprite.cpp
-       src/piecesprite.h
-       src/pixmapsprite.cpp
-       src/pixmapsprite.h
-       src/reflectiongraphicsscene.cpp
-       src/score.cpp
-       src/score.h
-       src/scoresprite.cpp
-       src/scoresprite.h
-       src/spritenotify.cpp
-       src/spritenotify.h
-       src/thememanager.cpp
-       src/thememanager.h
-Copyright: 1995-2007, Martin Heni <martin@heni-online.de>
-License: LGPL-2+
-
-Files: src/reflectiongraphicsscene.h
-Copyright: 2007, John Tapsel <tapsell@kde.org>
-License: LGPL-2+
 
 Files: debian/*
 Copyright: 2007-2013, Debian Qt/KDE Maintainers <debian-qt-kde@lists.debian.org>
@@ -97,6 +79,24 @@ License: GFDL-1.2+
  On Debian systems, the complete text of the GNU Free Documentation
  License version 1.2 can be found in "/usr/share/common-licenses/GFDL-1.2".
 
+License: LGPL-2
+ This library is free software; you can redistribute it and/or
+ modify it under the terms of the GNU Library General Public
+ License version 2 as published by the Free Software Foundation.
+ .
+ This library is distributed in the hope that it will be useful,
+ but WITHOUT ANY WARRANTY; without even the implied warranty of
+ MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the GNU
+ Library General Public License for more details.
+ .
+ You should have received a copy of the GNU Library General Public License
+ along with this library; see the file COPYING.LIB.  If not, write to
+ the Free Software Foundation, Inc., 51 Franklin Street, Fifth Floor,
+ Boston, MA 02110-1301, USA.
+ .
+ On Debian systems, the complete text of the GNU Library General Public
+ License version 2 can be found in "/usr/share/common-licenses/LGPL-2".
+
 License: LGPL-2+
  This library is free software; you can redistribute it and/or
  modify it under the terms of the GNU Library General Public
@@ -114,3 +114,25 @@ License: LGPL-2+
  .
  On Debian systems, the complete text of the GNU Library General Public
  License version 2 can be found in "/usr/share/common-licenses/LGPL-2".
+
+License: LGPL-2.1+3+KDEeV
+ This library is free software; you can redistribute it and/or
+ modify it under the terms of the GNU Lesser General Public
+ License as published by the Free Software Foundation; either
+ version 2.1 of the License, or (at your option) version 3, or any
+ later version accepted by the membership of KDE e.V. (or its
+ successor approved by the membership of KDE e.V.), which shall
+ act as a proxy defined in Section 6 of version 3 of the license.
+ .
+ This library is distributed in the hope that it will be useful,
+ but WITHOUT ANY WARRANTY; without even the implied warranty of
+ MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the GNU
+ Lesser General Public License for more details.
+ .
+ You should have received a copy of the GNU Lesser General Public
+ License along with this library.  If not, see <http://www.gnu.org/licenses/>.
+ .
+ On Debian systems, the complete text of the GNU Lesser General Public
+ License version 2.1 can be found in `/usr/share/common-licenses/LGPL-2.1',
+ likewise, the complete text of the GNU Lesser General Public License version
+ 3 can be found in `/usr/share/common-licenses/LGPL-3'.
