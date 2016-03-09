@@ -1,8 +1,8 @@
-kfourinline (4:15.12.1-1ubuntu1) UNRELEASED; urgency=medium
+kfourinline (4:15.12.1-1ubuntu1) xenial; urgency=medium
 
   * Debian merge: No remaining changes.
 
- -- Scarlett Clark <sgclark@kubuntu.org>  Wed, 03 Feb 2016 10:26:11 -0800
+ -- Scarlett Clark <sgclark@kubuntu.org>  Wed, 09 Mar 2016 10:43:08 +0100
 
 kfourinline (4:15.12.1-1) experimental; urgency=medium
 
