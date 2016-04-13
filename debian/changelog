@@ -1,3 +1,11 @@
+kfourinline (4:15.12.1-2~1.gbpc50774) UNRELEASED; urgency=medium
+
+  ** SNAPSHOT build @c5077453ca90357eafe6bb1e3f231cb47d11d008 **
+
+  * Bump Standards-Version to 3.9.8
+
+ -- Automatic packaging <maxy+jenkins@gnuservers.com.ar>  Wed, 13 Apr 2016 12:28:05 +0200
+
 kfourinline (4:15.12.1-1) experimental; urgency=medium
 
   * New upstream release (15.12.0).
