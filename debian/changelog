@@ -1,10 +1,11 @@
-kfourinline (4:15.12.1-2~1.gbpc50774) UNRELEASED; urgency=medium
+kfourinline (4:16.04.0-1~1.gbpa139e1) UNRELEASED; urgency=medium
 
-  ** SNAPSHOT build @c5077453ca90357eafe6bb1e3f231cb47d11d008 **
+  ** SNAPSHOT build @a139e1a3469139cbf15026004ac857a7225ee61f **
 
   * Bump Standards-Version to 3.9.8
+  * Update build-deps and deps with the info from cmake
 
- -- Automatic packaging <maxy+jenkins@gnuservers.com.ar>  Wed, 13 Apr 2016 12:28:05 +0200
+ -- Automatic packaging <maxy+jenkins@gnuservers.com.ar>  Thu, 21 Apr 2016 02:27:15 +0200
 
 kfourinline (4:15.12.1-1) experimental; urgency=medium
 
