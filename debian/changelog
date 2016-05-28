@@ -1,10 +1,6 @@
-kfourinline (4:16.04.0-1~2.gbp685269) UNRELEASED; urgency=medium
-
-  ** SNAPSHOT build @68526920a76aeb727c1ccbe156e0945d896872d0 **
+kfourinline (4:16.04.0-1) unstable; urgency=medium
 
   [ Automatic packaging ]
-  ** SNAPSHOT build @a139e1a3469139cbf15026004ac857a7225ee61f **
-
   * Bump Standards-Version to 3.9.8
   * Update build-deps and deps with the info from cmake
 
@@ -13,7 +9,7 @@ kfourinline (4:16.04.0-1~2.gbp685269) UNRELEASED; urgency=medium
   * Add upstream metadata (DEP-12)
   * debian/control: Update Vcs-Browser and Vcs-Git fields
 
- -- Maximiliano Curia <maxy@gnuservers.com.ar>  Mon, 09 May 2016 11:27:18 +0200
+ -- Maximiliano Curia <maxy@debian.org>  Sat, 28 May 2016 19:22:13 +0200
 
 kfourinline (4:15.12.1-1) experimental; urgency=medium
 
